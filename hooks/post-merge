@@ -1,0 +1,22 @@
+#!/bin/bash -e
+
+
+# hooks to automate the checking of codes before commit (pre,post)
+
+# created by dhanasekar
+
+# 20-01-2019
+
+ 
+uname -a
+
+lsb_release -a
+
+hostname -I
+
+
+
+
+
+
+

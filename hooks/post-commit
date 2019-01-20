@@ -1,0 +1,13 @@
+#!/bin/bash -e
+
+# hooks for post-commit
+
+# created by dhanasekar
+
+# 20-01-2019
+
+df -h
+
+du -h
+
+cal jan 2019

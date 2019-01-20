@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# hooks testing for pre-push
+
+# created by dhanasekar
+
+# 20-01-2019
+
+free -h
+
+id
+
+whereis bash

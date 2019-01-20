@@ -1,0 +1,13 @@
+#!/bin/bash -e
+
+# hook file for pre-commit
+
+# created by dhanasekar
+
+# 20-01-2019
+
+pwd
+
+uptime
+
+head -2 /proc/meminfo
